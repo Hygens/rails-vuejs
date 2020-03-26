@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This sample show how to integrate Rails and Vuejs.
 
-Things you may want to cover:
+For build for tests on development:
+    /> yarn cache clean
+    /> yarn
 
-* Ruby version
+For execute on two terminals:
+    - From one execute:   /> rails server
+    - From other execute: /> bin/webpack-dev-server
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For show on Browser execute on address bar:
+    - http://localhost:3000
